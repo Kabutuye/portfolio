@@ -1,8 +1,30 @@
 body{
     background-image: url("https://images.unsplash.com/photo-1473186505569-9c61870c11f9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     font-size: x-large;
+
+
+
+}
+.one{
+    color: black;
+
+}
+
+.two{
     color: maroon;
+}
 
 
+.three{
+    color: maroon;
+}
 
+.four{
+    color: maroon;
+}
+.five{
+    color: maroon;
+}
+.six{
+    color: maroon;
 }
